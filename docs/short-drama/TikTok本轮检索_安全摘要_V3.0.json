@@ -1,0 +1,217 @@
+[
+  {
+    "id": "fiona_full",
+    "url": "https://www.tiktok.com/search?q=Back%20to%2095%20Her%20Big%20Comeback",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/user/preview/",
+        "status": 200
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "full_general",
+    "url": "https://www.tiktok.com/search?q=short%20drama%20full%20movie",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/user/preview/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "official_netshort",
+    "url": "https://www.tiktok.com/@netshortdramas",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "账号资料可读，列表Something went wrong",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/post/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/user/playlist/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/story/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/user/playlist/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/post/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/user/list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/repost/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "rank1_account",
+    "url": "https://www.tiktok.com/search?q=AnimeFlux%20Daily",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/user/preview/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 200
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "rank1_title",
+    "url": "https://www.tiktok.com/search?q=His%20Secret%20Plus%20Size%20Fairy",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "rank2_title",
+    "url": "https://www.tiktok.com/search?q=The%20Cliff%20Survivors%20Revenge",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/user/preview/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "real_sports",
+    "url": "https://www.tiktok.com/search?q=Revenge%20Puck%20full",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "检索界面无可核验视频链接",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/suggest/guide/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/search/user/preview/",
+        "status": 200
+      },
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/prefetch/explore/item_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  },
+  {
+    "id": "tiktok_shortdrama",
+    "url": "https://www.tiktok.com/shortdrama",
+    "status": 200,
+    "video_links_returned": 0,
+    "visible_result": "Something went wrong",
+    "responses": [
+      {
+        "host": "www.tiktok.com",
+        "path": "/api/drama/theme/drama_list/",
+        "status": 403
+      }
+    ],
+    "full_work_obtained": false
+  }
+]
